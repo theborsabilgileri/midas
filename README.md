@@ -41,3 +41,5 @@
 [Temettü Nedir? Temettü Hisseleri Nasıl Alınır?](temettu-nedir_-temettu-hisseleri-nasil-alinir)
 
 [Volatilite Ne Demek? VIX Endeksi Nedir?](volatilite-ne-demek_-v-i-x-endeksi-nedir)
+
+Kaynak: [https://www.getmidas.com/midas-akademi](https://www.getmidas.com/midas-akademi)
