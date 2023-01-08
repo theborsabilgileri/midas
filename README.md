@@ -1,5 +1,3 @@
-# Midas
-
 [ABD Açılış Öncesi İşlemler ve Kapanış Sonrası (Pre Market & Post Market) Nedir?](a-b-d-acilis-oncesi-islemler-ve-kapanis-sonrasi-pre-market-and-post-market-nedir)
 
 [Arz Talep Nedir?](arz-talep-nedir)
